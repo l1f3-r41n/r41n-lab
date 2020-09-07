@@ -1,0 +1,2 @@
+
+docker stop weavescope awx_task awx_web awx_postgres awx_redis weave netbox-docker_nginx_1 netbox-docker_netbox_1 netbox-docker_netbox-worker_1 netbox-docker_redis_1 netbox-docker_redis-cache_1 netbox-docker_postgres_1
