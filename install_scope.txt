@@ -1,0 +1,4 @@
+sudo wget -O /usr/local/bin/scope \
+  https://github.com/weaveworks/scope/releases/download/latest_release/scope
+  sudo chmod a+x /usr/local/bin/scope
+  sudo scope launch
