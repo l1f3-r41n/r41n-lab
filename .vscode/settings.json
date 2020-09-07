@@ -1,0 +1,12 @@
+{
+  "python.dataScience.jupyterServerURI": "local",
+  "python.linting.pylintEnabled": false,
+  "python.linting.banditEnabled": true,
+  "python.linting.enabled": true,
+  "python.testing.pytestArgs": [
+    "VENV"
+  ],
+  "python.testing.unittestEnabled": false,
+  "python.testing.nosetestsEnabled": false,
+  "python.testing.pytestEnabled": true
+}
