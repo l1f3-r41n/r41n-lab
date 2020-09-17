@@ -1,0 +1,2 @@
+- name: Run a script with arguments (free form)
+  script: ./netbox_import.py
