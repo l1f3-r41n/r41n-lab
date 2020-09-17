@@ -8,6 +8,12 @@ verify_ssl = true
 [packages]
 requests = "*"
 nornir = "*"
+csv = "*"
+re = "*"
+os = "*"
+shutil = "*"
+pynetbox = "*"
+ipython = "*"
 
 [requires]
 python_version = "3.8"

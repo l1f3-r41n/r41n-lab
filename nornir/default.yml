@@ -1,0 +1,5 @@
+##Nornir Defaults File
+---
+platform: juniper
+username: rain
+password: !!33rainfour
